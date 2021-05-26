@@ -1,0 +1,54 @@
+.navbar {
+  background-color: grey;
+}
+.validator {
+  background-color: red;
+  color: white;
+}
+.card {
+  width: 310px !important;
+}
+.card-container {
+  margin: 0px 150px 0px 150px;
+  background-color: lightgrey;
+}
+.card-body {
+  padding: 0px;
+}
+.image-dashboard {
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+}
+.card-img-top {
+  object-fit: cover;
+}
+.card img {
+  height: 150px;
+}
+.table-head {
+  background-color: grey;
+}
+.table-body {
+  background-color: white;
+}
+input {
+  margin-bottom: 20px;
+}
+.search-box {
+  background-color: grey;
+}
+.search-box::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: black;
+  opacity: 1; /* Firefox */
+}
+.navbar {
+  font-weight: bold;
+}
+
+@media (max-width: 767.98px) {
+  .card-container {
+    margin: -50px 0px 0px 0px;
+  }
+}
