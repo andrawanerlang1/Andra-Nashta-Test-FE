@@ -1,6 +1,6 @@
 ## About The Project
 
-This project is created as the job test application for a Front End position.
+This project is created as the job test application for a Front End position. It using react as the main building framework and boostrap for the UI framework. The state management used is both Redux and Hook.
 
 # Getting Started with Create React App
 
