@@ -154,7 +154,7 @@ export default class AddEvent extends Component {
                     onChange={this.onChange}
                   />
                   <div className="validator">
-                    {this.validator.message("note", this.state.note, "min:20")}
+                    {this.validator.message("note", this.state.note, "min:50")}
                   </div>
 
                   <FormGroup className="mt-2">
